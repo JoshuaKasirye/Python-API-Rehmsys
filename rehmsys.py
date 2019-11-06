@@ -1,3 +1,6 @@
+'''
+    By Joshua Kasirye
+'''
 from flask import Flask, request,json, jsonify # flask main flamework, json files
 from flask_sqlalchemy import SQLAlchemy #ease sqlcommands
 from flask_marshmallow import Marshmallow
